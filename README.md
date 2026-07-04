@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/AnonShield.png" alt="AnonShield Logo" width="200"/>
+  <img src="AnonShield.png" alt="AnonShield Logo" width="200"/>
 </p>
 
 <h1 align="center">Anon Shield</h1>
