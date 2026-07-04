@@ -63,5 +63,5 @@ This project is distributed under the GPL-3.0 License.
 AnonShield is intended for legitimate network management, testing, and privacy purposes. You are responsible for using it in compliance with the laws and regulations of your country.
 
 ---
-
-<p align="center">Made by <a href="https://github.com/JaniduXxX">JaniduXxX</a></p>
+---
+<p align="center">Made by <a href="https://github.com/JaniduXxX">JaniduXxX</a> · Based on <a href="https://github.com/netchx/netch">Netch</a></p>
