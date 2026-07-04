@@ -30,7 +30,7 @@ Built for Windows, designed to be fast, and made to just work.
 
 Grab the latest version from the [**Releases**](https://github.com/JaniduXxX/AnonShield/releases) page.
 
-1. Download `AnonShield-Setup-x.x.x.exe`
+1. Download `AnonShield-Setup-1.0.0.exe`
 2. Run the installer
 3. Launch AnonShield and add your server
 4. Pick a mode and hit **Start**
