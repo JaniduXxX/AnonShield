@@ -139,6 +139,6 @@ Anon Shield is intended for legitimate network management, testing, and privacy 
 
 Made by <a href="https://github.com/JaniduXxX"><b>JaniduXxX</b></a>
 
-🌐 Dev Website: <a href="https://janiduemalga.netlify.app/">janiduemalga.netlify.app</a> · <a href="https://admin.anonytec.com">admin.anonytec.com</a>
+🌐 Dev Website:<a href="https://admin.anonytec.com">admin.anonytec.com</a>
 
 </div>
